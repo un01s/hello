@@ -1,4 +1,3 @@
 # Hello
 
-## Get Started
-
+## New from Tindie (Daily)
