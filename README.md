@@ -7,3 +7,6 @@
 2022-03-18 NEW tymkrs tymkrs-1u-eurorack-bulkhead-module
 2022-03-18 NEW crimier usdlocker-make-true-read-only-microsd
 2022-03-18 NEW crimier microusb-33v-breakout
+2022-03-21 NEW lansitectechnology ble50-rail-beacon
+2022-03-21 NEW synthrotek passive-mult-eurorack-module
+2022-03-21 NEW ericgu esp32-servo-breakout-board
